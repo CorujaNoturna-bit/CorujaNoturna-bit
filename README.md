@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Olá,%20sou%20o%20Alan%20Vitor!&fontSize=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=40" width="100%"/>
 </div>
 
 ## 👨‍💻 Sobre Mim
