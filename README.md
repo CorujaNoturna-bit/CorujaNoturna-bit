@@ -6,7 +6,7 @@
 
 - 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas (ADS) (SENAC-SP)**.
 - 🚀 **Foco Atual:** **Desenvolvimento Web**
-- ☁️ **Diferencial Técnico:** Conhecimento e interesse constante em **Computação em Nuvem (Cloud Computing)** e práticas de infraestrutura moderna.
+- ☁️ **Diferencial:** Conhecimento e interesse Cloud Computing e práticas de infraestrutura moderna.
 - 🎯 **Objetivo:** Projetar e entregar soluções completas de software, desde a interface de usuário até integrações com serviços em nuvem.
 
 ---
